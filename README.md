@@ -11,3 +11,4 @@ Er is ook een UML diagram gemaakt om de klassen te beschrijven.
 - dijkstra algorithm - Google Search. (n.d.). https://www.google.com/search?client=firefox-b-d&q=dijkstra+algorithm+#fpstate=ive&vld=cid:262e0374,vid:pVfj6mxhdMw
 - Powerpoints van college 7 & 8
 - Sign In. (n.d.). https://canvas.hu.nl/courses/32463/pages/dijkstras-algoritme (Dit is de uitleg link bij Dijkstra opdracht)
+- Computer Science. (2020, November 1). Fundamental Concepts of Object Oriented Programming [Video]. YouTube. https://www.youtube.com/watch?v=m_MQYyJpIjg
