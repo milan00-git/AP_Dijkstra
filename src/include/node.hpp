@@ -25,7 +25,7 @@ class Node
         
 };
 
-struct node_greater_than
+struct node_greater_than //aparte functie
 {
     //operator overloading voor nodes vergelijken (nodegreaterthan)
     bool operator()(const Node* lhs, const Node* rhs) const;
