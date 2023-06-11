@@ -2,7 +2,7 @@
 
 ## Opdrachtomschrijving:
 Voor deze opdracht is het Dijkstra's algoritme toegepast om het korste pad te bepalen. Dit is gedaan aan de hand van de datastructuur 'priority queue'.
-Er is ook een UML diagram gemaakt om de klassen te beschrijven.
+Er is ook een UML diagram gemaakt om de klassen te beschrijven. Ik heb voor dit project ook de code gebruikt van Peter (dit mocht gebruikt worden) om me beter door de opdracht heen te begeleiden. 
 
 ## Omschrijving UML diagram: 
 (komt nog) 
